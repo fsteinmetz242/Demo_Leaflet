@@ -1,4 +1,8 @@
 {
+  "name": "package.json",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
   "devDependencies": {
     "vite": "^7.1.5"
   },
